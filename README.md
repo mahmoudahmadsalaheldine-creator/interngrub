@@ -2,6 +2,8 @@
 
 A PHP-based intern and HR management platform covering attendance, task tracking, leave requests, hiring, and AI-assisted workflows across four distinct user roles.
 
+**Live Demo:** [team-interngrub.encodinginnovations.tech](https://team-interngrub.encodinginnovations.tech/index.php)
+
 ## Overview
 
 InternGrub manages the full lifecycle of an internship/HR program: HR staff post jobs and manage candidates through a hiring pipeline, admins/managers oversee interns and departments, and interns track their own attendance, tasks, and leave. It also integrates AI (via Groq's LLM API) to assist with task-related features.
