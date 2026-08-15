@@ -94,6 +94,23 @@ interngrub/
    - Gmail SMTP credentials (App Password) for password reset emails
 5. Visit `index.php` in your browser to reach the login page
 
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Interns
+![Interns](screenshots/interns.png)
+
+### HR Hiring Board
+![Hiring Board](screenshots/hiring-board.png)
+
+### Intern Dashboard
+![Intern Dashboard](screenshots/intern-dashboard.png)
+
 ## Security Notes
 
 Real database credentials, the AI API key, and SMTP credentials are excluded from version control via `.gitignore`. Only the example config template (`includes/config.example.php`) is committed. The `vendor/` directory is also excluded; run `composer install` to regenerate it locally.
